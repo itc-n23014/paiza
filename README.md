@@ -1,5 +1,6 @@
 # paiza課題_(n23014)
 
+
 # コードガールコレクション
 
 ![コードガール](image/codegirl.png)
@@ -41,3 +42,9 @@
 [キュート衣装](poh8/cute-isho.py)
 
 [Sexy衣装](poh8/sexy-isho.py)
+
+[水着](poh8/mizugi.py)
+
+[マイク](poh8/microphone.py)
+
+[カチューシャ](poh8/katyusha.py)
