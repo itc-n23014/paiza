@@ -1,7 +1,6 @@
 # paiza1
 
-![コードガール](codegilr.png)
-
+![コードガール](image/codegirl.png)
 # poh7_彼女をつくる
 
 [つりめ](poh7/tsurime.py)
