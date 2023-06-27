@@ -2,7 +2,8 @@
 
 ![コードガール](codegilr.png)
 
-#poh7　彼女をつくる
+# poh7_彼女をつくる
+
 [つりめ](poh7/tsurime.py)
 
 [猫耳セット](poh7/nekomimi-set.py)
