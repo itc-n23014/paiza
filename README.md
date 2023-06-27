@@ -1,4 +1,4 @@
-# paiza
+# paiza課題_(n23014)
 
 # コードガールコレクション
 
@@ -6,7 +6,7 @@
 
 # poh7_彼女をつくる
 
-[つりめ](poh7/tsurime.py)
+[つり目](poh7/tsurime.py)
 
 [猫耳セット](poh7/nekomimi-set.py)
 
