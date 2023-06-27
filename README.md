@@ -21,3 +21,23 @@
 [セーラー服](poh7/sailor-suit.py)
 
 [カーディガン](poh7/cardigan.py)
+
+# poh8_恋するハッカソン
+
+[ショートヘア](poh8/shorthair.py)
+
+[ロングヘア](poh8/longhair.py)
+
+[ポニーテール](poh8/ponytail.py)
+
+[おさげ](poh8/osage.py)
+
+[たれ目](poh8/tareme.py)
+
+[つり目](poh8/tsurime.py)
+
+[メガネ](poh8/megane.py)
+
+[キュート衣装](poh8/cute-isho.py)
+
+[Sexy衣装](poh8/sexy-isho.py)
