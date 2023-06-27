@@ -1,6 +1,9 @@
-# paiza1
+# paiza
+
+# コードガールコレクション
 
 ![コードガール](image/codegirl.png)
+
 # poh7_彼女をつくる
 
 [つりめ](poh7/tsurime.py)
