@@ -39,6 +39,8 @@
 
 [ポニーテール](poh8/ponytail.py)
 
+[ツインテール](poh8/twintail.py)
+
 [おさげ](poh8/osage.py)
 
 [たれ目](poh8/tareme.py)
