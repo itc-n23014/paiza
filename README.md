@@ -9,6 +9,8 @@
 
 [つり目](poh7/tsurime.py)
 
+[眼帯](poh7/gantai.py)
+
 [猫耳セット](poh7/nekomimi-set.py)
 
 [猫セット](poh7/neko-set.py)
@@ -23,9 +25,11 @@
 
 [セーラー服](poh7/sailor-suit.py)
 
+[カーディガン](poh7/cardigan.py)
+
 [縞ニーソセット](poh7/shima-socks.py)
 
-[カーディガン](poh7/cardigan.py)
+[メイド服](poh7/maid-fuku.py)
 
 # poh8_恋するハッカソン
 
