@@ -11,6 +11,8 @@
 
 [猫耳セット](poh7/nekomimi-set.py)
 
+[猫セット](poh7/neko-set.py)
+
 [ショートヘア](poh7/shorthair.py)
 
 [ロングヘア](poh7/longhair.py)
@@ -20,6 +22,8 @@
 [ツインテール](poh7/twintail.py)
 
 [セーラー服](poh7/sailor-suit.py)
+
+[縞ニーソセット](poh7/shima-socks.py)
 
 [カーディガン](poh7/cardigan.py)
 
