@@ -1,11 +1,10 @@
-n = int(input())
+import math
 
 
 def f(n):
-    total = 1
-    for i in range(1, n + 1):
-        total *= i
-    return total
+    return math.factorial(n)
 
 
-print(f(n))
+n = int(input())
+result = f(n)
+print(result)

@@ -1,8 +1,3 @@
-n, m = map(int, input().split())
-s = input()
-t = input()
-
-
 def f(s, t):
     for i in s:
         if i in t:
@@ -10,5 +5,8 @@ def f(s, t):
     return len(t)
 
 
+n, m = map(int, input().split())
+s = input()
+t = input()
 result = f(s, t)
 print(result)

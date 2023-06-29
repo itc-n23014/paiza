@@ -1,13 +1,8 @@
-import math
+def f(n, m):
+    return -(-m // (n * 2))
+
 
 n = int(input())
 m = int(input())
-
-
-def f(n, m):
-    weekjob = n * 2
-    return math.ceil(m / weekjob)
-
-
 result = f(n, m)
 print(result)

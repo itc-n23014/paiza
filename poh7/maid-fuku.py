@@ -1,7 +1,3 @@
-n = int(input())
-m = [int(input()) for _ in range(n)]
-
-
 def f(n, m):
     list = []
     for i in m:
@@ -17,5 +13,7 @@ def f(n, m):
     return "\n".join(list)
 
 
+n = int(input())
+m = [int(input()) for _ in range(n)]
 result = f(n, m)
 print(result)
