@@ -1,10 +1,9 @@
-c1, p1 = map(int, input().split())
-c2, p2 = map(int, input().split())
+c, p = zip(*(map(int, input().split()) for _ in range(2)))
 
 
-def f(c1, p1, c2, p2):
-    return 1 if c1 / p1 > c2 / p2 else 2
+def f(c, p):
+    return 1 if c[0] / p[0] > c[1] / p[1] else 2
 
 
-result = f(c1, p1, c2, p2)
+result = f(c, p)
 print(result)
