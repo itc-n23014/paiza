@@ -4,5 +4,6 @@ def f(n, a):
 
 n = int(input())
 a = [int(i) for i in input().split()]
+
 result = f(n, a)
 print(result)

@@ -3,5 +3,6 @@ def f(s, t):
 
 
 s, t = int(input()), int(input())
+
 result = f(s, t)
 print(result)

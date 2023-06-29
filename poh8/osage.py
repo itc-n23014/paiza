@@ -5,5 +5,6 @@ def f(n, m, t):
 
 n, m = int(input()) * 60, int(input())
 t = [int(input()) for _ in range(m)]
+
 result = f(n, m, t)
 print(result)

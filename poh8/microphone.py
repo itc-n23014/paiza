@@ -4,5 +4,6 @@ def f(n, m):
 
 n = int(input())
 m = int(input())
+
 result = f(n, m)
 print(result)

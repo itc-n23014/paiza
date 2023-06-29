@@ -3,5 +3,6 @@ def f(n, m):
 
 
 n, m = map(int, input().split())
+
 result = f(n, m)
 print(result)

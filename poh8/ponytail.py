@@ -4,5 +4,6 @@ def f(d, e):
 
 
 d, e = zip(*(input().split() for _ in range(5)))
+
 result = f(d, e)
 print(result)

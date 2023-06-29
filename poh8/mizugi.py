@@ -8,5 +8,6 @@ def f(s, t):
 n, m = map(int, input().split())
 s = input()
 t = input()
+
 result = f(s, t)
 print(result)

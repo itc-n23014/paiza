@@ -3,5 +3,6 @@ def f(N):
 
 
 N = int(input())
+
 result = f(N)
 print(result)
