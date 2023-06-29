@@ -5,5 +5,6 @@ def f(s):
 
 
 s = input()
+
 result = f(s)
 print(result)

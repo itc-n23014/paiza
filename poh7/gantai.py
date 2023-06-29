@@ -7,5 +7,6 @@ n, m1 = int(input()), int(input())
 x = list(map(int, input().split()))
 m2 = int(input())
 y = list(map(int, input().split()))
+
 result = f(x, y)
 print(result)

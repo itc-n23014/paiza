@@ -15,5 +15,6 @@ def f(n, m):
 
 n = int(input())
 m = [int(input()) for _ in range(n)]
+
 result = f(n, m)
 print(result)

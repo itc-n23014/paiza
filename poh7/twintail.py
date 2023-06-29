@@ -3,5 +3,6 @@ def f(c, p):
 
 
 c, p = zip(*(map(int, input().split()) for _ in range(2)))
+
 result = f(c, p)
 print(result)
