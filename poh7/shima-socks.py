@@ -1,18 +1,8 @@
-a = int(input())
-b = int(input())
+a, b = int(input()), int(input())
 
 
 def f(a, b):
-    c, d, e = 1, 0, True
-    f = []
-    while c <= b:
-        f.append("R" if e else "W")
-        d += 1
-        if d >= a:
-            e = not e
-            d = 0
-        c += 1
-    return "".join(f)
+    return "".join(["R" if (i // a) % 2 == 0 else "W" for i in range(b)])
 
 
 result = f(a, b)
