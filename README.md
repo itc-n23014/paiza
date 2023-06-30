@@ -31,6 +31,10 @@
 
 [メイド服](poh7/maid-fuku.py)
 
+[眼鏡](poh7/megane.py)
+
+[サンタ服](poh7/santa.py)
+
 # poh8_恋するハッカソン
 
 [ショートヘア](poh8/shorthair.py)
@@ -52,6 +56,8 @@
 [キュート衣装](poh8/cute-isho.py)
 
 [Sexy衣装](poh8/sexy-isho.py)
+
+[制服](poh8/school-uniform.py)
 
 [水着](poh8/mizugi.py)
 
