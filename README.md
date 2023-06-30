@@ -59,6 +59,8 @@
 
 [制服](poh8/school-uniform.py)
 
+[浴衣](poh8/yukata.py)
+
 [水着](poh8/mizugi.py)
 
 [マイク](poh8/microphone.py)
